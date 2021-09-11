@@ -16,7 +16,7 @@ black:#000000;
 /* black background color to the top navigation bar */
 .container {
   overflow: hidden;
-  background-color: #e9e9e9;
+  background-color: #d3cfcf;
   padding:0px;
 }
 
@@ -28,7 +28,7 @@ black:#000000;
   text-align: center;
   padding: 15px 20px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 18px;
 }
 
 /* Change the color of links on hover */
@@ -45,7 +45,7 @@ black:#000000;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
-  font-size: 17px;
+  font-size: 18px;
   width: 200px;
 }
 
@@ -58,13 +58,13 @@ ul .social-list{
   display: inline-grid;
   padding: 0;
   margin-top: 12px;
-  margin-left: 40px;
+  margin-left: 10px;
   
 }
 .social-list li a{
   border: 1px solid #fff;
   height: 35px;
-  padding-top: 8px;
+  padding: 8px;
   width: 35px;
   display: inline-block;
   line-height: 35px;
@@ -118,11 +118,11 @@ ul .social-list{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(150, 147, 147);
   color: black;
 }
 
-/* background photo */
+/*header background photo */
 #abc{
   min-height: 100vh;
   width: 100%;
@@ -130,6 +130,12 @@ ul .social-list{
   background-size: cover;
 }
 
+/* 2nd header background color of 2nd navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #8cf8f8;
+  padding:0px;
+}
 
 
 
