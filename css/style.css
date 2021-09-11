@@ -113,7 +113,7 @@ ul .social-list{
   text-decoration: none;
   font-size: 17px;
   font-weight:bolder;
-  margin-left: 40px;
+  margin-left: 35px;
 }
 
 /* Change the color of links on hover */
@@ -122,8 +122,13 @@ ul .social-list{
   color: black;
 }
 
-
-
+/* background photo */
+#abc{
+  min-height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
 
 
 
