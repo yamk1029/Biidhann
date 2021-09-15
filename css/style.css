@@ -191,7 +191,7 @@ ul .social-list{
 
 /*3 services*/
 #services{
-  background: url("../img/bgimage/statementbg.jpg") no-repeat fixed center;
+  background: url("../img/servicesbg.jpg") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -199,11 +199,6 @@ ul .social-list{
   background: rgba(0, 0, 0, 0.3);
 }
 
-#teach-services h3{
-  color: #fff;
-  font-size: 28px;
-  line-height: 45px;
-}
 #teach-services  p{
   font-size: 20px;
   font-weight: bold;
@@ -211,6 +206,9 @@ ul .social-list{
   margin-top: 8px;
 }
 
+#ssservices{
+  float: left;
+}
 
 
 
