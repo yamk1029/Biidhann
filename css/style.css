@@ -175,6 +175,7 @@ ul .social-list{
     float: left;
     padding-left: 80px;
     padding-top: 30px;
+
   }
 
   .facilities-item-details p{
@@ -182,6 +183,7 @@ ul .social-list{
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
+    
   }
 
 /* 3 services for people */
@@ -196,30 +198,31 @@ ul .social-list{
 }
 
 #services .content-box-lg{
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.5);
+  margin: 5%;
 }
 
 
 #ssservices{
   float: left;
-  padding-left: 120px;
+  padding-left: 80px;
 }
 
 
-.facilities-item-details  p{
+.services-item-details{
   font-size: 20px;
   font-weight: bold;
   color: #fff;
-  text-align: start;
-  padding-left: 45px;
+  padding:20px 0 0 45px;
 }
 
+.services-item-overlay .container h5{
+text-align: center;
+}
 
-
-
-
-
-
+.services-item-overlay{
+  padding:20px 100px 0 0;
+}
 
 
 
